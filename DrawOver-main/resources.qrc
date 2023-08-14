@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/global/images">
+        <file>logo.png</file>
+        <file>d.icns</file>
+    </qresource>
+    <qresource prefix="/bubble/images">
+        <file>pen.png</file>
+        <file>highLighter.png</file>
+        <file>eraser.png</file>
+        <file>clear.png</file>
+        <file>backToWork.png</file>
+        <file>expand.png</file>
+        <file>close.png</file>
+    </qresource>
+</RCC>
